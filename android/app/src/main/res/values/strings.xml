@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cs2teamfinder</string>
+    <string name="title_activity_main">cs2teamfinder</string>
+    <string name="package_name">cs2.tf</string>
+    <string name="custom_url_scheme">cs2.tf</string>
+</resources>
